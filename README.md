@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Default | GET Check, GET Get Configuration Link, GET List Exposed Actions, POST Execute App Action Endpoint |
+| Default | Get check, Get configuration link, Get list exposed actions, Post execute app action endpoint |
 
 ---
 
